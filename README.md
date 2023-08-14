@@ -1,4 +1,6 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,83&height=280&section=header&text=Hyun's%20Github&fontSize=60&fontColor=FFFFFF&animation=fadeIn)
+
+
 
 <!--
 **hyuni0316/hyuni0316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
