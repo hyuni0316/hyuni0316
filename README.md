@@ -3,7 +3,7 @@
 <h3>🩷 SNS 🩷</h3>
 <a href="https://www.instagram.com/hyun__ini/" target=" Instagram"><img src="https://img.shields.io/badge/Instagram-FF00BF?style=flat-square&logo=instagram&logoColor=white"/width=110></a> 
 <a href="https://www.facebook.com/profile.php?id=100044179783207" target=" Facebook"><img src="https://img.shields.io/badge/Facebook-0080FF?style=flat-square&logo=facebook&logoColor=white"/width=101></a> 
-<a href="https://velog.io/@ccomi" target=" Velog"><img src="https://img.shields.io/badge/Velog-01DFA5?style=flat-square&logo=Velog&logoColor=white"/width=74></a> 
+<a href="https://velog.io/@ccomi/series" target=" Velog"><img src="https://img.shields.io/badge/Velog-01DFA5?style=flat-square&logo=Velog&logoColor=white"/width=74></a> 
 <a href="https://www.youtube.com/channel/UCDFyLh6C-ZnTwW-_PeU-EcA" target=" youtube"><img src="https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=youtube&logoColor=white"/width=98></a> 
 
 <h3>💜 Tech Stack 💜</h3>
