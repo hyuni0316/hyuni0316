@@ -25,7 +25,7 @@
 <h4>🩵 I am... 🩵</h4>
 <p> 
   🏫 I’m a student of Ewha Womans University in Seoul, South Korea. <br>
-  👩🏻‍💻 I’m currently learning a Computer Science.
+  👩🏻‍💻 I’m currently learning Computer Science.
 </p>
 
 
