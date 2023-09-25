@@ -22,7 +22,7 @@
 </div>
 
 
-<h4>🩵 I am... 🩵</h4>
+<h4>💚 I am... 💚</h4>
 <p> 
   🏫 I’m a student of Ewha Womans University in Seoul, South Korea. <br>
   👩🏻‍💻 I’m currently learning Computer Science.
