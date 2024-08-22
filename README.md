@@ -7,18 +7,20 @@
 <a href="https://www.youtube.com/channel/UCDFyLh6C-ZnTwW-_PeU-EcA" target=" youtube"><img src="https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=youtube&logoColor=white"/width=98></a> 
 
 <h3>💜 Tech Stack 💜</h3>
-<div style="display:inline;"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> 
+<div style="display:inline;">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> 
 <img src="https://img.shields.io/badge/JAVA-0489B1?style=for-the-badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/MATLAB-FF8000?style=for-the-badge&logoColor=white"> 
 <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/typescript-#178C6?style=for-the-badge&logo=typescript-&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 </div>
 
 
