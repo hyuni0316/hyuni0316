@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,3,6,9,0&height=250&section=header&text=Hyun's%20Github&fontSize=35&fontColor=FFFFFF&animation=fadeIn&fontAlignY=41)
 
+<!--
 <h3>🩷 SNS 🩷</h3>
 <a href="https://www.instagram.com/hyun__ini/" target=" Instagram"><img src="https://img.shields.io/badge/Instagram-FF00BF?style=flat-square&logo=instagram&logoColor=white"/width=110></a> 
 <a href="https://www.facebook.com/profile.php?id=100044179783207" target=" Facebook"><img src="https://img.shields.io/badge/Facebook-0080FF?style=flat-square&logo=facebook&logoColor=white"/width=101></a> 
@@ -22,7 +23,7 @@
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 </div>
-
+-->
 
 <h4>💚 I am... 💚</h4>
 <p> 
