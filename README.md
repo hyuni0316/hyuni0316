@@ -27,7 +27,8 @@
 
 <h4>💚 I am... 💚</h4>
 <p> 
-  🏫 B.S. Ewha Womans University in Seoul, South Korea. <br>
+  🏫 B.S. Ewha Womans University <br>
+  🏫 M.S. KAIST Industrial Design <br>
 </p>
 
 
