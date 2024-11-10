@@ -27,8 +27,8 @@
 
 <h4>💚 I am... 💚</h4>
 <p> 
-  🏫 B.S. Ewha Womans University <br>
-  🏫 M.S. KAIST Industrial Design <br>
+  🏫 B.S. Ewha Womans University - Computer Science<br>
+  🏫 M.S. KAIST - Industrial Design <br>
 </p>
 
 
